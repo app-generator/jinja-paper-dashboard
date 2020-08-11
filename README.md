@@ -2,7 +2,7 @@
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
-- UI Kit: **Neumorphism UI** (Free Version) by **Themesberg**
+- UI Kit: **Paper Dashboard** (Free Version) by **Themesberg**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - **[MIT License](https://github.com/app-generator/license-mit)**
 - Free support via **Github** issues tracker
@@ -10,19 +10,18 @@
 
 > Links
 
-- [Template Jinja2 Theme](https://jinja-template-paper-dashboard.appseed.us/) - LIVE Demo
+- [Jinja Paper Dashboard Demo](https://jinja-template-paper-dashboard.appseed.us/) - LIVE Deploy
 
 <br />
 
-## UI Kit - [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap)
+## UI Kit - [Paper Dashboard](https://www.creative-tim.com/product/paper-dashboard-2?AFFILIATE=128200)
 
-*Vendor Notes* - Start developing neumorphism (aka. neomorphism) inspired layouts, web apps and pages with this free UI Kit. It features over 200 individual components and 5 example pages. Neumorphism UI makes use of the original neumorphism design specs.
-All components are perfectly in compliance with the neumorphism design trend making use of the specific shadow and coloring attributes. Neumorphism UI also comes with the shadow inset style add-on. Only some neumorphic components that are included are timelines, profile cards, pricing cards, call to action sections and many more.
+*Vendor Notes* - Paper Dashboard2 is a beautiful Bootstrap 4 admin dashboard with a large number of components, designed to look neat and organized. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Paper Dashboard 2 comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
 
 > Links
 
-- [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap) - product page
-- [Neumorphism UI Docs](https://themesberg.com/docs/neumorphism-ui/getting-started/quick-start/)
+- [Paper Dashboard](https://www.creative-tim.com/product/paper-dashboard-2?AFFILIATE=128200) - product page
+- [Paper Dashboard Demo](https://demos.creative-tim.com/paper-dashboard/examples/dashboard.html?AFFILIATE=128200)
 
 <br />
 
