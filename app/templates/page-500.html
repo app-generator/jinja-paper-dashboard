@@ -1,4 +1,4 @@
-{% extends "layouts/base-fullscreen.html" %}
+{% extends "layouts/base.html" %}
 
 {% block title %} Error 500 {% endblock %} 
 
@@ -7,32 +7,29 @@
 
 {% block content %}
 
-    <!-- Section -->
-    <section class="min-vh-100 d-flex align-items-center bg-soft">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12 d-flex align-items-center justify-content-center">
-                    <div class="signin-inner mt-3 mt-lg-0 bg-white shadow-soft border rounded border-light p-4 p-lg-5 w-100 fmxw-500">
-                        <div class="text-center text-md-center mb-4 mt-md-0">
-                            <h1 class="mb-0 h3">
-                              Error 500
-                            </h1>
-                            <br />
-                            <span class="font-weight-normal">
-                                Server error - please contact support.
-                            </span>                            
-                        </div>
-                        
-                        <form action="#" class="mt-4">
-                            <a href="/" class="btn btn-block btn-primary">Home</a>
-                        </form>
-                    </div>
-                </div>
-            </div>
+  <div class="content">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <h5 class="title">Error 500</h5>
+
+            <blockquote>
+                <p class="blockquote blockquote-primary">
+                    Server error - Please contact support.
+                    <br>
+                    <small>
+                    - <a href="/">Home</a>
+                    </small>
+                </p>
+            </blockquote>
+          </div>
         </div>
-    </section>
+      </div>
+    </div>
+  </div>
 
 {% endblock content %}
 
 <!-- Specific Page JS goes HERE  -->
-{% block javascripts %}{% endblock javascripts %}
+{% block javascripts %}{% endblock javascripts %}    

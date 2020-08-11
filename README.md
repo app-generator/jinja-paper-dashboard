@@ -1,4 +1,4 @@
-# [Jinja2 Template](https://theme-jinja2.appseed.us/)
+# [Jinja Template - Paper Dashboard](https://jinja-template-paper-dashboard.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -10,7 +10,7 @@
 
 > Links
 
-- [Template Jinja2 Theme](https://theme-jinja2.appseed.us/) - LIVE Demo
+- [Template Jinja2 Theme](https://jinja-template-paper-dashboard.appseed.us/) - LIVE Demo
 
 <br />
 
@@ -26,7 +26,7 @@ All components are perfectly in compliance with the neumorphism design trend mak
 
 <br />
 
-![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2/master/media/theme-jinja2-screen.png)
+![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-paper-dashboard/master/media/jinja-template-paper-dashboard-screen.png)
 
 <br />
 
@@ -34,8 +34,8 @@ All components are perfectly in compliance with the neumorphism design trend mak
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/jinja-template-paper-dashboard.git
+$ cd jinja-template-paper-dashboard
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -124,8 +124,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/jinja-template-paper-dashboard.git
+$ cd jinja-template-paper-dashboard
 ```
 
 > Start the app in Docker
@@ -187,4 +187,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja2 Template](https://theme-jinja2.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template - Paper Dashboard](https://jinja-template-paper-dashboard.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).

@@ -1,6 +1,6 @@
 # Change Log
 
-## [1.0.0] 2020-06-08
+## [1.0.0] 2020-08-11
 ### Initial Release
 
 - Update Licensing information
