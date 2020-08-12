@@ -2,7 +2,7 @@
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
-- UI Kit: **Paper Dashboard** (Free Version) by **Themesberg**
+- UI Kit: **Paper Dashboard** (Free Version) by **Creative-Tim**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - **[MIT License](https://github.com/app-generator/license-mit)**
 - Free support via **Github** issues tracker
@@ -20,8 +20,8 @@
 
 > Links
 
-- [Paper Dashboard](https://www.creative-tim.com/product/paper-dashboard-2?AFFILIATE=128200) - product page
-- [Paper Dashboard Demo](https://demos.creative-tim.com/paper-dashboard/examples/dashboard.html?AFFILIATE=128200)
+- HTML [Paper Dashboard](https://www.creative-tim.com/product/paper-dashboard-2?AFFILIATE=128200) - product page
+- HTML [Paper Dashboard Demo](https://demos.creative-tim.com/paper-dashboard/examples/dashboard.html?AFFILIATE=128200)
 
 <br />
 
