@@ -1,8 +1,8 @@
-# [Jinja Template - Paper Dashboard](https://jinja-template-paper-dashboard.appseed.us/)
+# [Jinja Template](https://github.com/app-generator/jinja-template) - [Paper Dashboard](https://appseed.us/ui-kit/paper-design)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
-- UI Kit: **Paper Dashboard** (Free Version) by **Creative-Tim**
+- UI Kit: **[Paper Dashboard](https://appseed.us/ui-kit/paper-design)** (Free Version) by **[Creative-Tim](https://appseed.us/agency/creative-tim)**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - **[MIT License](https://github.com/app-generator/license-mit)**
 - Free support via **Github** issues tracker
@@ -15,14 +15,9 @@
 
 <br />
 
-## UI Kit - [Paper Dashboard](https://www.creative-tim.com/product/paper-dashboard-2?AFFILIATE=128200)
+## UI Kit - [Paper Dashboard](https://appseed.us/ui-kit/paper-design)
 
 *Vendor Notes* - Paper Dashboard2 is a beautiful Bootstrap 4 admin dashboard with a large number of components, designed to look neat and organized. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Paper Dashboard 2 comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
-
-> Links
-
-- HTML [Paper Dashboard](https://www.creative-tim.com/product/paper-dashboard-2?AFFILIATE=128200) - product page
-- HTML [Paper Dashboard Demo](https://demos.creative-tim.com/paper-dashboard/examples/dashboard.html?AFFILIATE=128200)
 
 <br />
 
@@ -187,4 +182,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template - Paper Dashboard](https://jinja-template-paper-dashboard.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template](https://github.com/app-generator/jinja-template) - [Paper Dashboard](https://appseed.us/ui-kit/paper-design) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
