@@ -6,11 +6,10 @@
 
 > Features:
 
-- UI Kit: **[Paper Dashboard](https://appseed.us/ui-kit/paper-design)** (Free Version) by **[Creative-Tim](https://appseed.us/agency/creative-tim)**
+- UI Kit: **Paper Dashboard** (Free Version) by **Creative-Tim**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
-- **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
