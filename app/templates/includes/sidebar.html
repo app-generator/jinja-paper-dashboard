@@ -1,7 +1,7 @@
 <div class="sidebar" data-color="white" data-active-color="danger">
     <div class="logo">
       <a target="_blank" rel="sponsored noopener noreferrer" 
-         href="https://www.creative-tim.com?AFFILIATE=128200" 
+         href="/" 
          class="simple-text logo-mini">
         <div class="logo-image-small">
           <img src="/static/assets/img/logo-small.png">
@@ -9,7 +9,7 @@
         <!-- <p>CT</p> -->
       </a>
       <a target="_blank" rel="sponsored noopener noreferrer" 
-         href="https://www.creative-tim.com?AFFILIATE=128200" class="simple-text logo-normal">
+         href="/" class="simple-text logo-normal">
         Creative Tim
         <!-- <div class="logo-image-big">
           <img src="/static/assets/img/logo-big.png">
@@ -18,43 +18,43 @@
     </div>
     <div class="sidebar-wrapper">
       <ul class="nav">
-        <li class="active ">
+        <li class="{% if 'index' in segment %} active {% endif %}">
           <a href="/">
             <i class="nc-icon nc-bank"></i>
             <p>Dashboard</p>
           </a>
         </li>
-        <li>
+        <li class="{% if 'icons' in segment %} active {% endif %}">
           <a href="/icons.html">
             <i class="nc-icon nc-diamond"></i>
             <p>Icons</p>
           </a>
         </li>
-        <li>
+        <li class="{% if 'map' in segment %} active {% endif %}">
           <a href="/map.html">
             <i class="nc-icon nc-pin-3"></i>
             <p>Maps</p>
           </a>
         </li>
-        <li>
+        <li class="{% if 'notifications' in segment %} active {% endif %}">
           <a href="/notifications.html">
             <i class="nc-icon nc-bell-55"></i>
             <p>Notifications</p>
           </a>
         </li>
-        <li>
+        <li class="{% if 'user' in segment %} active {% endif %}">
           <a href="/user.html">
             <i class="nc-icon nc-single-02"></i>
             <p>User Profile</p>
           </a>
         </li>
-        <li>
+        <li class="{% if 'tables' in segment %} active {% endif %}">
           <a href="/tables.html">
             <i class="nc-icon nc-tile-56"></i>
             <p>Table List</p>
           </a>
         </li>
-        <li>
+        <li class="{% if 'typography' in segment %} active {% endif %}">
           <a href="/typography.html">
             <i class="nc-icon nc-caps-small"></i>
             <p>Typography</p>
@@ -87,7 +87,7 @@
 
         <li class="active-pro">
           <a target="_blank" rel="sponsored noopener noreferrer" 
-             href="https://appseed.us">
+             href="https://appseed.us/admin-dashboards/open-source">
             <i class="nc-icon nc-spaceship"></i>
             <p>More Starters</p>
           </a>
